@@ -16,7 +16,7 @@ Nothing, at the present. But that may change when I find time.
 
 # 📫 How to reach me is ...
 
-On my website, jorge.saldivar.co.
+Visit me on my website, jorge.saldivar.co.
 
 <!---
 jsldvr/jsldvr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
